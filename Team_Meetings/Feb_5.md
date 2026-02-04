@@ -5,6 +5,7 @@
    Typhoid Vaccine:
    - Are there any specific taxa enriched or depleted in responders vs non-responders?
    - Is gut microbiome diversity after single-dose typhoid vaccination associated with participant age?
+   - Longitudinal microbiome changes across DPI (independent of responder status)?
 
    Infant Feeding:
    - How does vaginal vs. C-section delivery shape infant gut microbiome diversity and community composition across [certain age]?
