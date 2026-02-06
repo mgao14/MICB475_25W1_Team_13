@@ -22,4 +22,37 @@
    - Are the oral microbiome community composition variations caused by alcohol consumption associated to specific alcohol-related diseases? Possibly cross reference with smoking.
      
 ### Meeting Minutes
+Anemia during Infancy:
+Does taking different types of iron supplementation lead to differences in gut microbiome compositions of anemic infants? → chosen
+- Not done, good sample size
+- Which iron supplements (two diff supplements vs non) → what kind and how much?
+- Healthy w and w/o vs anemic w and w/o
+- Diet available – breast milk, juice, solids
+
+Project layout
+12 vs 6 months (or run both parallel or keep the dataset with highest number)
+Groups: 
+Healthy → MNP, FeSO4, none
+Anemic  → MNP, FeSO4, none
+
+See how much humans can absorb  MNP & FeSO4 in the gut
+How much iron is in each supplement (if one has higher than another then that can justify)
+Justify what these groups are depending on how different they are
+
+Run everything through new shared credentials
+Preprocessing: run through QIIME pipeline 
+1. Run 2 sets, 1 for anemic, 1 for healthy (identify important taxa)
+2. Diversity metrics
+3. Core microbiome – unique vs shared
+4. Indicator taxa
+5. Deseq
+6. 1 functional analysis (boutique) - picrust2, predictive model of community function
+
+
 ### To-Do
+ - Run data to process it for the proposal
+ - Start early with data proposal
+ - Read through the expectation for the proposal to ask Hans
+ - Outline of proposal for next meeting
+ - Before trimming, email Hans with read number and trim proposal
+
