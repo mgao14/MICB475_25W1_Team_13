@@ -1,0 +1,20 @@
+# !/bin/bash
+
+# Make a new directory
+mkdir /data/project_2_anemia
+cd /data/project_2_anemia
+
+# Import data using the manifest file and output a demultiplexed file
+qiime tools import \
+  --type "SampleData[SequencesWithQuality]" \
+  --input-format SingleEndFastqManifestPhred33V2 \
+  --input-path /datasets/project_2/anemia/anemia_manifest.tsv \
+  --output-path /data/project_2_anemia/demux_seqs.qza
+
+# Create visualization of demultiplexed file
+qiime demux summarize \
+  --i-data demux_seqs.qza \
+  --o-visualization demux_seqs.qzv
+
+# Export demux_seqs.qzv to local computer
+scp root@10.19.139.196:/data/project_2_anemia/demux_seqs.qzv .
