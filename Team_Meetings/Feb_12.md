@@ -30,6 +30,7 @@
 - Can we stratify by age? Sex?
 
   Background information on MNP & FeSO4
+
   MNP:
   - Used to fortify foods
   - Often contains iron (usually in the form of ferrous sulphate, ferrous fumarate, NaFeEDTA, or ferrous bisglycinate) and other vitamins and minerals - Need to determine which form of iron and dosage was used
