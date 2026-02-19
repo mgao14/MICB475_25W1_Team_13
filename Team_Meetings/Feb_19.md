@@ -14,8 +14,8 @@
     - Overall: MNP supplementation may improve iron absorption in the small intestine, reducing colonic unabsorbed iron and its potential disruptive effects on the gut microbiome.
    
 - Discuss aims
-  - Aim 1: Determine how the microbial diversity differs after receiving MPN, FeSO4, or no supplementation in (healthy and anemic) infants. (Diversity matrix + Core microbiome analysis)
-  - Aim 2: Identify bacterial species that are differentially abundant upon iron supplementation with MPN or FeSO4 or no supplementation. (DESeq)
+  - Aim 1: Determine how the microbial diversity differs after receiving MNP, FeSO4, or no supplementation in (healthy and anemic) infants. (Diversity matrix + Core microbiome analysis)
+  - Aim 2: Identify bacterial species that are differentially abundant upon iron supplementation with MNP or FeSO4 or no supplementation. (DESeq)
   - Aim 3: Functional analyses of bacteria of interest across supplementation (and anemia) status. (PiCRUSt)
    
 - Questions:
