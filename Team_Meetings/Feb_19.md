@@ -22,3 +22,8 @@
   - How to cite UJEMI papers
   - Original paper said that samples were collected from 95 infants but the metadata has 180+ samples (we will be analyzing 187 samples) → which number should we use for the introduction/background to state how many samples are there
   - Everyone to submit the proposal or just one person
+
+For reference:
+
+<img width="278" height="166" alt="sample_size" src="https://github.com/user-attachments/assets/1af31de7-a683-4d93-930e-9cbe2ff8164d" />
+
